@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<utenti>
+    <utente>
+        <tipoUtente>UtenteExecutive</tipoUtente>
+        <profilo>
+            <nome>Monica</nome>
+            <cognome>Rossi</cognome>
+            <email>monica.rossi@email.it</email>
+            <titoliDiStudio>Diploma scuola secondaria di primo grado; </titoliDiStudio>
+            <lingue>Italiano; </lingue>
+            <competenze>Spirito di gruppo; Buona capacità di adeguarsi ad ambienti multiculturali; </competenze>
+            <esperienze>Cameriera presso &quot;Birreria Number 1&quot;; </esperienze>
+        </profilo>
+        <rete>robertog; sergiob; stefanoc; stefanoa; francescor; </rete>
+        <login>monicar</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteExecutive</tipoUtente>
+        <profilo>
+            <nome>Luca</nome>
+            <cognome>Rossi</cognome>
+            <email>luca.rossi@email.it</email>
+            <titoliDiStudio>Perito industriale; </titoliDiStudio>
+            <lingue>Italiano; Inglese; </lingue>
+            <competenze></competenze>
+            <esperienze>Stage presso azienda Alfa.spa; </esperienze>
+        </profilo>
+        <rete>edoardob; alessandrat; </rete>
+        <login>lucar</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBasic</tipoUtente>
+        <profilo>
+            <nome>Marco</nome>
+            <cognome>Pasquale</cognome>
+            <email>marco.pasquale@email.it</email>
+            <titoliDiStudio>Diploma istituto alberghiero; </titoliDiStudio>
+            <lingue>Italiano; Spagnolo; </lingue>
+            <competenze></competenze>
+            <esperienze>Stage di 300 ore presso ristorante pizzeria Verona; Lavoro presso &quot;Gastronomia il ceppo&quot;; </esperienze>
+        </profilo>
+        <rete>stefanoc; alessandrat; gianlucab; </rete>
+        <login>marcop</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBasic</tipoUtente>
+        <profilo>
+            <nome>Edoardo</nome>
+            <cognome>Ballarin</cognome>
+            <email>edoardo.ballarin@email.it</email>
+            <titoliDiStudio>Perito commerciale; Laurea triennale in Economia e Commercio; </titoliDiStudio>
+            <lingue>Italiano; Tedesco; </lingue>
+            <competenze>Buona esperienza nella gestione di progetti e gruppi; </competenze>
+            <esperienze>Tirocinio di 300 presso Beta.spa; </esperienze>
+        </profilo>
+        <rete>stefanoa; giovannap; edoardob; </rete>
+        <login>edoardob</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteExecutive</tipoUtente>
+        <profilo>
+            <nome>Giovanna</nome>
+            <cognome>Perin</cognome>
+            <email>giovanna.perin@email.com</email>
+            <titoliDiStudio>Laurea in lingue, civiltà e scienze del linguaggio; </titoliDiStudio>
+            <lingue>Italiano; Inglese; Russo; </lingue>
+            <competenze>Buona capacità di comunicazione; </competenze>
+            <esperienze>Esperienza per 6 mesi come ragazza alla pari a Londra; </esperienze>
+        </profilo>
+        <rete>marcop; francescor; </rete>
+        <login>giovannap</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBusiness</tipoUtente>
+        <profilo>
+            <nome>Sergio</nome>
+            <cognome>Bianchi</cognome>
+            <email>sergio.bianchi@email.it</email>
+            <titoliDiStudio>Liceo Scientifico; Laurea triennale in viticoltura ed enologia; </titoliDiStudio>
+            <lingue>Italiano; Inglese; </lingue>
+            <competenze></competenze>
+            <esperienze>Corso di sommelier; </esperienze>
+        </profilo>
+        <rete>robertog; giovannap; monicar; lucar; </rete>
+        <login>sergiob</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBasic</tipoUtente>
+        <profilo>
+            <nome>Roberto</nome>
+            <cognome>Gialli</cognome>
+            <email>roberto.gialli@email.it</email>
+            <titoliDiStudio>Liceo classico; </titoliDiStudio>
+            <lingue>Italiano; Spagnolo; </lingue>
+            <competenze>Lavoro in team; </competenze>
+            <esperienze></esperienze>
+        </profilo>
+        <rete>sergiob; gianlucab; stefanoc; stafanoa; </rete>
+        <login>robertog</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBusiness</tipoUtente>
+        <profilo>
+            <nome>Stefano</nome>
+            <cognome>Carollo</cognome>
+            <email>stefano.carollo@email.it</email>
+            <titoliDiStudio>Addetto alla trasformazione agroalimentare; </titoliDiStudio>
+            <lingue>Italiano; </lingue>
+            <competenze>Valutazione dei danni alle colture dovuti ad eventi meteorologici o accidentali; </competenze>
+            <esperienze></esperienze>
+        </profilo>
+        <rete>robertog; lucar; monicar; </rete>
+        <login>stefanoc</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBasic</tipoUtente>
+        <profilo>
+            <nome>Stefano</nome>
+            <cognome>Azzolin</cognome>
+            <email>stefano.azzolin@email.it</email>
+            <titoliDiStudio>Perito commerciale indirizzo programmatori; Laurea triennale in economia e commercio; </titoliDiStudio>
+            <lingue>Italiano; Inglese; </lingue>
+            <competenze></competenze>
+            <esperienze>Stage presso Alfa.spa; Lavoro per 1 anno presso Beta.spa; </esperienze>
+        </profilo>
+        <rete>edoardob; </rete>
+        <login>stefanoa</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBasic</tipoUtente>
+        <profilo>
+            <nome>Gianluca</nome>
+            <cognome>Bianchi</cognome>
+            <email>gianluca.bianchi@email.it</email>
+            <titoliDiStudio>Diploma istituto alberghiero; </titoliDiStudio>
+            <lingue>Italiano; Inglese; Spagnolo; </lingue>
+            <competenze></competenze>
+            <esperienze>Stage 300 ore presso ristorante le tre rose; Lavoro per 3 anni presso gelateria/pasticceria biancocaramel; </esperienze>
+        </profilo>
+        <rete>monicar; robertog; </rete>
+        <login>gianlucab</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBusiness</tipoUtente>
+        <profilo>
+            <nome>Alessandra</nome>
+            <cognome>Trevisan</cognome>
+            <email>alessandra.trevisan@email.com</email>
+            <titoliDiStudio>Liceo linguistico; Laurea in lingue; </titoliDiStudio>
+            <lingue>Italiano; Inglese; Tedesco; Russo; </lingue>
+            <competenze>Senso dell'organizzazione; Buona padronanza delle lingue conosciute; </competenze>
+            <esperienze>Ragazza alla pari per 6 mesi in Russia; Ragazza alla pari per 6 mesi in Inghilterra; </esperienze>
+        </profilo>
+        <rete>giovannap; </rete>
+        <login>alessandrat</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBusiness</tipoUtente>
+        <profilo>
+            <nome>Francesco</nome>
+            <cognome>Rossi</cognome>
+            <email>francesco.rossi@email.it</email>
+            <titoliDiStudio>Diploma I.T.I.S. meccanica e meccatronica; </titoliDiStudio>
+            <lingue>Italiano; </lingue>
+            <competenze>Lavoro in team; Gestione di progetti di gruppo; </competenze>
+            <esperienze>Stage di 300 ore presso Alfa.spa; </esperienze>
+        </profilo>
+        <rete>giovannap; lucar; </rete>
+        <login>francescor</login>
+    </utente>
+    <utente>
+        <tipoUtente>UtenteBusiness</tipoUtente>
+        <profilo>
+            <nome>Fabio</nome>
+            <cognome>Bianchi</cognome>
+            <email>fabio.bianchi@email.it</email>
+            <titoliDiStudio>Diploma scuola secondaria di primo grado; </titoliDiStudio>
+            <lingue>Italiano; </lingue>
+            <competenze></competenze>
+            <esperienze></esperienze>
+        </profilo>
+        <rete>monicar; lucar; stefanoa; </rete>
+        <login>fabiob</login>
+    </utente>
+</utenti>
